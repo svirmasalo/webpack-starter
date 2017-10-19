@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --progress -p",
     "watch": "webpack --progress --watch",
-    "server": "webpack-dev-server --open",
-    "minify": "minify ./bundle.js"
+    "server": "webpack-dev-server --open"
   },
   "author": "",
   "license": "ISC",
